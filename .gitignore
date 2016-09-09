@@ -1,0 +1,17 @@
+### Actionscript template
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+typings
+node_modules
+# Other files and folders
+.settings/
+.idea
+
+app/**/*.js
+app/**/*.map
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+# Created by .ignore support plugin (hsz.mobi)
